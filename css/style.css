@@ -1,0 +1,18 @@
+
+/* https://goo.gl/vBjT5A */
+header, 
+footer {
+  width: 100%;
+}
+
+section {
+  width: 70%;
+}
+
+aside {
+  width: 30;
+}
+
+a:hover {
+  color: #ccc;
+}
